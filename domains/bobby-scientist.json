@@ -1,0 +1,9 @@
+{
+  "records": [
+    {
+      "type": "CNAME",
+      "name": "bobby-scientist",
+      "target": "d344db07-da6f-45b9-905f-33ff2cd114f7.cfargotunnel.com"
+    }
+  ]
+}
